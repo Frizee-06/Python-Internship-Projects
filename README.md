@@ -1,4 +1,4 @@
-# Jesintha Mary – Internship Projects (Phase 2)
+# Python – Internship Projects (Phase 2)
 
 This repository contains two Python-based internship projects completed as part of my July 2025 internship program.
 ## 1. LinkedIn Job Scraper
